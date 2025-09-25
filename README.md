@@ -5,14 +5,14 @@
 ### 💻 Full Stack Developer | 🚀 Problem Solver | 🌱 Continuous Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;Database+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;Database+Enthusiast;Problem+Solver;ETL+Expert;Cloud+Deployment+on+GCP" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Passionate full-stack developer with expertise in modern web technologies and database management. I love building scalable applications and solving complex problems through clean, efficient code. Always eager to learn new technologies and collaborate on innovative projects.
+Passionate full-stack developer with expertise in modern web technologies, data engineering (ETL), and database management. I love building scalable applications, orchestrating ETL pipelines, and solving complex problems through clean, efficient code. Always eager to learn new technologies and collaborate on innovative projects. Experienced in deploying solutions on Google Cloud Platform (GCP).
 
 </div>
 
@@ -31,6 +31,8 @@ Passionate full-stack developer with expertise in modern web technologies and da
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Apache%20PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache PySpark"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
 </p>
 
 ### 🌐 Web Technologies
@@ -45,6 +47,7 @@ Passionate full-stack developer with expertise in modern web technologies and da
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/ETL%20Projects-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMiAxMmMwLTUuNTIyIDQuNDc4LTEwIDEwLTEwczEwIDQuNDc4IDEwIDEwLTQuNDc4IDEwLTEwIDEwUzIgMTcuNTIyIDIgMTJ6bTQgNmgxMHYtMkg2djJ6Ii8+PC9zdmc+" alt="ETL Projects"/>
 </p>
 
 ### 🗄️ Databases & Analytics
@@ -57,6 +60,7 @@ Passionate full-stack developer with expertise in modern web technologies and da
 ### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/DBMS-FF6C37?style=for-the-badge&logo=database&logoColor=white" alt="DBMS"/>
 </p>
 
