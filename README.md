@@ -63,14 +63,19 @@ Cloud-obsessed Software Engineer passionate about creating scalable, resilient b
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
+<div align="center">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MutharasuArchunan13&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"><br>
+    <!-- <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Mothilal-hire10x&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Mothilal's%20Most%20Used%20Languages&title_color=00F7FF&text_color=70a5fd"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Mothilal-hire10x&show_icons=true&line_height=30&rank_icon=github&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=70a5fd"><br> -->
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mothilal-hire10x&theme=tokyonight&exclude={}" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mothilal-hire10x&theme=tokyonight&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mothilal-hire10x&theme=tokyonight&utcOffset=+5" width="33%"><br> -->
+</div>
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MutharasuArchunan13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MutharasuArchunan13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MutharasuArchunan13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
