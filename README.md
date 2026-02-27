@@ -1,21 +1,28 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 👨‍💻 Mutharasu Archunan
 
 ### Senior Software Engineer · Backend Architect · System Designer
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Building+Identity+Systems+securing+5+products+%F0%9F%94%90;ETL+Pipelines+processing+200K%2B+records+%F0%9F%93%8A;Debugging+Raft+Consensus+at+protocol+level+%E2%9A%99%EF%B8%8F;Architecting+Backend+Systems+from+Zero+to+Prod+%F0%9F%9A%80" />
-</p>
+<br/>
 
 <a href="https://linkedin.com/in/mutharasu-a-90638823b"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/MutharasuArchunan13"><img src="https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://github.com/typesense/typesense/issues/2638"><img src="https://img.shields.io/badge/OSS-Typesense_Contributor-E5534B?style=flat-square&logo=github"/></a>
 <img src="https://komarev.com/ghpvc/?username=MutharasuArchunan13&color=2EA043&style=flat-square&label=Views"/>
 
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Building+Identity+Systems+securing+5+products+%F0%9F%94%90;ETL+Pipelines+processing+200K%2B+records+%F0%9F%93%8A;Debugging+Raft+Consensus+at+protocol+level+%E2%9A%99%EF%B8%8F;Architecting+Backend+Systems+from+Zero+to+Prod+%F0%9F%9A%80" />
+
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🧑‍💻 About Me
 
@@ -24,7 +31,7 @@ class Mutharasu:
     
     role       = "Senior Software Engineer"
     company    = "10xScale.ai"
-    location   = "Hyderabad, India"
+    location   = "Coimbatore, India"
     
     languages  = ["Python", "Java", "JavaScript", "SQL"]
     
@@ -41,7 +48,11 @@ class Mutharasu:
     superpower  = "I don't just use tools — I build the platform others build on."
 ```
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🏗️ What I've Built
 
@@ -49,8 +60,10 @@ class Mutharasu:
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Centralized Identity Provider
+**🔐 Centralized Identity Provider**
+
 OAuth 2.0 + OIDC compliant IdP for **5 products**
+
 - JWT with **EdDSA** signing · PKCE for public clients
 - Refresh token families with cascade revocation
 - Per-product token isolation & subscription-based auth
@@ -60,8 +73,10 @@ OAuth 2.0 + OIDC compliant IdP for **5 products**
 </td>
 <td width="50%" valign="top">
 
-### 📊 ETL Pipeline Architecture
+**📊 ETL Pipeline Architecture**
+
 End-to-end data processing from scratch
+
 - **Airflow** orchestration + **PySpark** transforms
 - **200K+ recruitment records** processed
 - Idempotent design — safe re-execution guaranteed
@@ -73,8 +88,10 @@ End-to-end data processing from scratch
 <tr>
 <td width="50%" valign="top">
 
-### 🕷️ Distributed Web Scraping
+**🕷️ Distributed Web Scraping**
+
 High-throughput scraping infrastructure
+
 - Source-specific worker pools (LinkedIn, Naukri)
 - **Redis/Celery** task distribution
 - Planned **Kubernetes** + KEDA autoscaling
@@ -83,8 +100,10 @@ High-throughput scraping infrastructure
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Open Source — Typesense [#2638](https://github.com/typesense/typesense/issues/2638)
+**🔍 Open Source — Typesense [#2638](https://github.com/typesense/typesense/issues/2638)**
+
 Diagnosed critical issue in **25K+ ⭐ project**
+
 - **Raft consensus** thread starvation during 228K bulk inserts
 - Write queue blocking `/health` & `/search` APIs
 - Proposed decoupled health endpoints + backpressure
@@ -94,7 +113,11 @@ Diagnosed critical issue in **25K+ ⭐ project**
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🔐 Architecture — Identity Provider
 
@@ -134,7 +157,11 @@ Diagnosed critical issue in **25K+ ⭐ project**
 └──────────────────────────────────────────────────────────────────┘
 ```
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -202,7 +229,11 @@ Diagnosed critical issue in **25K+ ⭐ project**
 ![Aerich](https://img.shields.io/badge/Aerich-017CEE?style=flat-square)
 ![Taskiq](https://img.shields.io/badge/Taskiq-E92063?style=flat-square)
 
+<br/>
+
 ---
+
+<br/>
 
 ## 👨‍🏫 Teaching & Mentoring
 
@@ -210,29 +241,42 @@ Diagnosed critical issue in **25K+ ⭐ project**
 |:---:|:---:|:---:|
 | Core Java, OOP, Backend fundamentals | Transitioning live → recorded tutorials | Building intermediate DE tutorial series |
 
+<br/>
+
 ---
+
+<br/>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MutharasuArchunan13&theme=github-dark-blue&hide_border=true&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideNums=F0F6FC&sideLabels=8B949E&dates=6E7681&stroke=21262D&background=0D1117" width="55%"/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=MutharasuArchunan13&theme=github-dark-blue&hide_border=true&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideNums=F0F6FC&sideLabels=8B949E&dates=6E7681&stroke=21262D&background=0D1117" width="55%"/>
+
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## 💎 Open Source
 
 <a href="https://github.com/typesense/typesense/issues/2638">
-  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/pin/?username=typesense&repo=typesense&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043" />
+<img src="https://github-readme-stats-ten-olive-80.vercel.app/api/pin/?username=typesense&repo=typesense&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043" />
 </a>
 
 > **Issue #2638** — Diagnosed Raft consensus thread starvation during 228K document bulk inserts. Proposed decoupled health endpoints and configurable write backpressure.
 
+<br/>
+
 ---
 
 <div align="center">
+<br/>
 
 *"I don't just write code — I architect systems, debug at the protocol level, and teach others to do the same."*
 
+<br/>
 </div>
-]]>
