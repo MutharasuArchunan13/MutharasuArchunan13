@@ -38,7 +38,7 @@ class Mutharasu:
     }
     
     open_source = "Typesense #2638 — Raft consensus thread starvation"
-    taught      = "Java → 100+ students"
+    taught      = "Java → 200+ students"
     superpower  = "I build the platform others build on."
 ```
 
